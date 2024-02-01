@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @oab224
-- 👀 I’m interested in learning algorithm
-- 🌱 I’m currently learning software developer at HANU
-- 💞️ I’m looking to collaborate on some big tech maybe
-- 📫 How to reach me: fb.com/notqua
-- 😄 Pronouns: Bao
-- ⚡ Fun fact: I'm interested in learning korean and japanese
+안녕하세요, 저는 버어입니다.
 
 <!---
 oab224/oab224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
