@@ -1,4 +1,4 @@
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Bui Quang Bao</h3>
 
 - I’m currently working on **FPT Software**
 
@@ -12,7 +12,7 @@
 
 - How to reach me **blingroajz@gmail.com**
 
-- My Hobbies **I like playing piano, gym and calisthenic :)**
+- My Hobbies **I like playing piano, gym, calisthenic, and learning languages :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
