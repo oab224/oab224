@@ -12,7 +12,7 @@
 
 - How to reach me **blingroajz@gmail.com**
 
-- My Hobbies **I like playing piano, gym, calisthenic, and learning languages :)**
+- My Hobbies are **playing piano, gym, calisthenic, and learning languages :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
