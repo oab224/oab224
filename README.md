@@ -4,10 +4,6 @@
 
 - I’m currently learning **Reactjs, tailwind and advanced .NET**
 
-- All of my projects are available at [github.com/oab224](github.com/oab224)
-
-- I regularly write articles on [linkedin.com/in/baobuii](linkedin.com/in/baobuii)
-
 - Ask me about **.NET, C++, C#, Python...**
 
 - How to reach me **blingroajz@gmail.com**
